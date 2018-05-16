@@ -1,4 +1,3 @@
-#The link with content pertinent to this exercise is https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-
 #First import all the relevant modules to perform sentiment analysis
 #If errors, install using pip. Import Tweepy, pandas and numpy
 import tweepy
