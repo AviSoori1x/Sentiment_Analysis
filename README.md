@@ -1,2 +1,2 @@
-# Sentiment-Analysis-Twitter-scripts
-Very basic sentiment analysis on Bloomberg tweets
+# Sentiment Analysis on Financial Twitter
+Sentiment analysis on Bloomberg tweets
